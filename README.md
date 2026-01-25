@@ -35,9 +35,7 @@ My work often bridges the gap between theoretical models and production software
 
 <div align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=rpupo63&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
+  <br/>
   <img src="https://github-contribution-grid-snake.vercel.app/grid-snake.svg?username=rpupo63&theme=github-dark" alt="GitHub Contribution Calendar" />
 </div>
 
