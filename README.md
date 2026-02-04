@@ -3,8 +3,15 @@
 </div>
 
 <div align="center">
-  <h1>Hi, I'm Beto Pupo.</h1>
-  <h3>Full-Stack Engineer & Fractional CTO in AI | Making Fun & Helpful Projects</h3>
+  <h1>Hey, I am Beto! Your freelance CTO</h1>
+  <h3>Full-stack engineer who ships fast. I build AI-powered tools for enterprises and MVPs for startups.</h3>
+
+  <p>
+    My motto is "If you can dream it, I can build it," so if you're spending sleepless nights dreaming of the next Facebook, just looking for advice on the tech side of startups, or even asking Claude Code to hack together your MVP, but just can't get it right, then I may be your guy.
+  </p>
+  <p>
+    <b>Clients save 12+ hours/week with my solutions.</b>
+  </p>
 
   <p>
     <a href="https://pupo.codes/">
@@ -21,13 +28,31 @@
 
 ---
 
-### 👨‍💻 About Me
+### 📖 My Story
 
-I am a **Mathematician and Economist** turned **Technologist**. My background isn't just code—it's founded in the rigorous analysis of complex systems, honed at UChicago and refined through years of financial consulting for top-tier banks and insurance providers.
+I don't come from a traditional tech background. I studied math in undergrad and went straight into consulting. I left that world about 2 years into it with the intention of making a startup, but without a product idea, a team, and or even the knowledge of how to build or sell. In the spirit of failing fast and learning fast, my best plan was to match with someone off YCombinator's startup matching platform, immediately say yes to their idea, build their MVP, see if the product was something people wanted and my cofounder someone who could sell it, and repeat.
 
-Currently, I operate as a **Fractional CTO** and **Solo Entrepreneur**, architecting high-stakes systems for startups. As the CTO of **ProNexus**, I led technical strategy, hiring, and the development of enterprise-grade security standards aligned with ISO 27001. I have single-handedly shipped MVPs for numerous early-stage ventures, ranging from AI-driven beauty tech to marketplace platforms.
+After about half a year of cofounder and idea searching, I landed on my first full-time CTO role at ProNexus, where I solo-developed an AI-powered, email-reading and expert finding tool for consultants. I'm hoping to build my first unicorn by 2030 and happy to talk with anyone interested in this journey.
 
-My work often bridges the gap between theoretical models and production software—I've drafted game theory whitepapers on cybersecurity risk and now build the systems that prevent it. When I'm not shipping code, I'm an unapologetic Linux tinkerer (Arch + Hyprland) and robotics enthusiast.
+### 💭 My Personal Philosophy
+
+I take my work seriously, but I don't take myself seriously. The corporate world made me realize too much of a care for self-image and presentation got in the way of good ideas, communication, and work. I strive to make work fun by putting my focus on the mission and the product over myself.
+
+At the same time, I believe in bringing back the wonder we had for tech in the early 2000's. Right now, social media and profit incentive have made every innovation a grift and every metric a target. My goal is to show my peers that anyone can be Iron Man or make Flubber and that there is much more than just profit in doing so.
+
+---
+
+### 💼 Experience
+
+*   **ProNexus (CTO):** Engineered production-grade web app for 5 consulting firms, managed 250K+ lines of code, hired 2 interns.
+*   **Startups (Freelance CTO):** Coded MVPs for 7 startups in 4-week sprints.
+*   **Curinos (Associate):** Spearheaded goal-tracking feature for a top 5 Canadian bank.
+*   **Sia Partners (Analyst):** Drafted game theory whitepaper on cybersecurity.
+
+### 🎓 Education & Accelerators
+
+*   **The University of Chicago:** B.S. Mathematics & Economics (June 2021)
+*   **Accelerators:** Antler (Fall 2024), NYU Catalyst (Spring 2025), UChicago CNVC (Winter 2021)
 
 ---
 
@@ -59,13 +84,12 @@ Here is what I am building right now.
 **[AMNH Scavenger Hunt](https://github.com/rpupo63/AMNH-Scavenger-Hunt)**
 > An interactive scavenger hunt web app for the American Museum of Natural History featuring 27 puzzles across all 5 floors, engaging visitors with gamified exploration.
 
-### 🔌 The Garage (Non-Coding)
+### 🎲 Beyond Code
 
-I don't just write software; I build things in the physical and digital worlds.
-
-* **Game Design:** I've designed multi-year D&D campaigns with custom cartography and lore.
-* **Current Build:** I am hacking a vintage **Billy Bass singing fish** to act as a physical interface for a home-assistant Siri clone.
-* **Hobbies:** Robotics, Electronic Engineering, and configuring my [Omarchy](https://github.com/rpupo21) Hyprland setup.
+* **Math Mentor:** Free tutoring for high school students (The Actuarial Foundation).
+* **Game Creator:** Built interactive scavenger hunt for AMNH.
+* **D&D Worldbuilder:** Created 30+ pages of lore and 20+ custom maps.
+* **Writer:** Topics include learning, product building, collaboration, and startup lessons.
 
 ---
 
