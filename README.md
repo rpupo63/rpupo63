@@ -6,9 +6,9 @@
 
 My motto is **"If you can dream it, I can build it."**
 
-I don't come from a traditional tech background. I traded a career in math and consulting for the "fail fast, learn fast" world of startups. I take my work seriously, but I don't take myself seriously—focusing on the mission and the product over self-image. My goal is to build my first unicorn by 2030 and bring back the wonder of tech, showing that anyone can be Iron Man.
+I don't come from a traditional tech background. I traded a career in math and consulting for the "fail fast, learn fast" world of startups. Now, I like messing around on the side with any and everything code related, from video gaming to robotics. So if you want to talk over reverse engineering the functionality of electronics, like the Talking Billy Bass, or have strong opinions on LLM usage in NPC dialogue, then I may be the right guy to talk to. 
 
-I'm working full-time now at [Scope Labs](https://www.scopelabs.com/), but I'm always open for advice, consultation, or small, fun projects. If you're dreaming of the next big thing, need technical advice for your startup, or are struggling to hack together an MVP, I'm here to help you ship.
+I'm working full-time now at [Scope Labs](https://www.scopelabs.com/), but I'm always open for advice, consultation, or small, fun projects. If you're dreaming of the next big thing, need technical advice for your startup, or are struggling to hack together an MVP, shoot me a message
 
 <p align="center">
   <a href="https://pupo.codes/">
@@ -29,7 +29,6 @@ I'm working full-time now at [Scope Labs](https://www.scopelabs.com/), but I'm a
 * **Math Mentor:** Free tutoring for high school students (The Actuarial Foundation).
 * **Game Creator:** Built interactive scavenger hunt for AMNH.
 * **D&D Worldbuilder:** Created 30+ pages of lore and 20+ custom maps.
-* **Writer:** Topics include learning, product building, collaboration, and startup lessons.
 
 ---
 
