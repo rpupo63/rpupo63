@@ -1,6 +1,6 @@
 <div align="center">
   <img src="banner.png" alt="Banner" width="100%" />
-  <h1>Hey, I am Beto! Your freelance CTO</h1>
+  <h1>Hey, I am Pupo! Your freelance CTO</h1>
   <h3>Full-stack engineer who ships fast. I build AI-powered tools for enterprises and MVPs for startups.</h3>
 </div>
 
