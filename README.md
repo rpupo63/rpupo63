@@ -1,6 +1,6 @@
 <div align="center">
   <img src="banner.png" alt="Banner" width="100%" />
-  <h1>Hey, I am Pupo! Your freelance CTO</h1>
+  <h1>Hey, I am Pupo! Topologically Equivalent to an Entrepreneur</h1>
   <h3>Full-stack engineer who ships fast. I build AI-powered tools for enterprises and MVPs for startups.</h3>
 </div>
 
@@ -8,7 +8,7 @@ My motto is **"If you can dream it, I can build it."**
 
 I don't come from a traditional tech background. I traded a career in math and consulting for the "fail fast, learn fast" world of startups. I take my work seriously, but I don't take myself seriously—focusing on the mission and the product over self-image. My goal is to build my first unicorn by 2030 and bring back the wonder of tech, showing that anyone can be Iron Man.
 
-If you're dreaming of the next big thing, need technical advice for your startup, or are struggling to hack together an MVP, I'm here to help you ship.
+I'm working full-time now at [Scope Labs](https://www.scopelabs.com/), but I'm always open for advice, consultation, or small, fun projects. If you're dreaming of the next big thing, need technical advice for your startup, or are struggling to hack together an MVP, I'm here to help you ship.
 
 <p align="center">
   <a href="https://pupo.codes/">
