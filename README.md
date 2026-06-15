@@ -1,30 +1,26 @@
 <div align="center">
   <img src="banner.png" alt="Banner" width="100%" />
-</div>
-
-<div align="center">
   <h1>Hey, I am Beto! Your freelance CTO</h1>
   <h3>Full-stack engineer who ships fast. I build AI-powered tools for enterprises and MVPs for startups.</h3>
-
-  <p>
-    My motto is "If you can dream it, I can build it," so if you're spending sleepless nights dreaming of the next Facebook, just looking for advice on the tech side of startups, or even asking Claude Code to hack together your MVP, but just can't get it right, then I may be your guy.
-  </p>
-  <p>
-    <b>Clients save 12+ hours/week with my solutions.</b>
-  </p>
-
-  <p>
-    <a href="https://pupo.codes/">
-      <img src="https://img.shields.io/badge/Portfolio-pupo.codes-black?style=for-the-badge&logo=vercel" alt="Website" />
-    </a>
-    <a href="https://www.linkedin.com/in/rpupo21/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:rpupo63@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-    </a>
-  </p>
 </div>
+
+My motto is **"If you can dream it, I can build it."**
+
+I don't come from a traditional tech background. I traded a career in math and consulting for the "fail fast, learn fast" world of startups. I take my work seriously, but I don't take myself seriously—focusing on the mission and the product over self-image. My goal is to build my first unicorn by 2030 and bring back the wonder of tech, showing that anyone can be Iron Man.
+
+If you're dreaming of the next big thing, need technical advice for your startup, or are struggling to hack together an MVP, I'm here to help you ship.
+
+<p align="center">
+  <a href="https://pupo.codes/">
+    <img src="https://img.shields.io/badge/Portfolio-pupo.codes-black?style=for-the-badge&logo=vercel" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/rpupo21/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rpupo63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
